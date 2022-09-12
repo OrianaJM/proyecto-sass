@@ -6,12 +6,14 @@
     }
     
 }
-// main {
-//     background-color: $colorbg;
-// }
-// footer {
-//     background-color: $colorbg;
-// }
+
+// esto no me lo compila en themes
+main {
+    background-color: $colorbg;
+}
+footer {
+    background-color: $colorbg;
+}
 
 .tarjeta-titulo{
     color: $color-uno;

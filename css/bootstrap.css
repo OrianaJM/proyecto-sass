@@ -8,6 +8,14 @@
   color: rgb(199, 125, 255);
 }
 
+main {
+  background-color: black;
+}
+
+footer {
+  background-color: black;
+}
+
 .tarjeta-titulo {
   color: rgb(199, 125, 255);
 }
