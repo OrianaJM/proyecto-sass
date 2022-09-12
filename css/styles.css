@@ -5,15 +5,19 @@
   background-color: black;
 }
 .contenedor-productos.contenedor-productos__titulo {
-  color: #E0AAFF;
+  color: rgb(224, 170, 255);
+}
+
+main {
+  background-color: black;
 }
 
 .tarjeta-titulo {
-  color: #E0AAFF;
+  color: rgb(224, 170, 255);
 }
 
 h1 {
-  font: "Anybody", cursive, "Dongle", sans-serif, "Fauna One", serif;
+  font: "Anybody", "cursive", "Dongle", sans-serif, "Fauna One", serif;
 }
 
 a {
